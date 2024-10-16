@@ -35,5 +35,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-/src/.env
-/src/.env*
+my-app/src/.env
+my-app/src/.env*
